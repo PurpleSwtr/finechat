@@ -1,0 +1,8 @@
+﻿  REGAUTH.cpp
+C:\Users\GANSOR\Desktop\С++\REGAUTH\REGAUTH\REGAUTH.cpp(362,37): warning C4101: e: неиспользованная локальная переменная
+C:\Users\GANSOR\Desktop\С++\REGAUTH\REGAUTH\REGAUTH.cpp(460,41): warning C4101: e: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 392 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  REGAUTH.vcxproj -> C:\Users\GANSOR\Desktop\С++\REGAUTH\x64\Release\REGAUTH.exe

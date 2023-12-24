@@ -1,0 +1,4 @@
+﻿  REGAUTH.cpp
+C:\Users\GANSOR\Desktop\С++\REGAUTH\REGAUTH\REGAUTH.cpp(283,37): warning C4101: e: неиспользованная локальная переменная
+C:\Users\GANSOR\Desktop\С++\REGAUTH\REGAUTH\REGAUTH.cpp(381,41): warning C4101: e: неиспользованная локальная переменная
+  REGAUTH.vcxproj -> C:\Users\GANSOR\Desktop\С++\REGAUTH\x64\Debug\REGAUTH.exe
